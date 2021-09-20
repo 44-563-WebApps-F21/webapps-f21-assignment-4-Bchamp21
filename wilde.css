@@ -92,3 +92,13 @@ span.name:hover{
     border-color: black;              
     border-collapse:separate ;
 }  
+
+
+
+li {
+    display:block;
+    width:120px;
+    float:left;
+    margin-left:2px;
+    border:2px solid #000;
+  }
