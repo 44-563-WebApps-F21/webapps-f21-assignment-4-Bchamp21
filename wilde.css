@@ -87,4 +87,8 @@ a:hover {
 span.name:hover{
     color:rgb(248, 240, 240);
     text-shadow: 2px 2px 4px #000000;
+    border :2px;
+    border-style: solid;
+    border-color: black;              
+    border-collapse:separate ;
 }  
