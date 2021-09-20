@@ -1,0 +1,59 @@
+
+h1{
+    font-family: Times;
+    font-size: 20mm;
+    color:red;
+}
+/* Comments in CSS can also be
+inside <style> elements in HTML*/
+p{background-color: green;
+font-family: Times;
+border: 5px solid blue;
+padding: 10px;
+}
+span {background-color: red;
+    font-family: Times;
+    }
+p#special{
+        font-family: Times;
+        font-size: 12mm;
+        color:green;
+    }
+#special{
+    font-family: Times;
+    font-size: 12mm;
+    color:green;
+}
+.scene{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 12mm;
+    color:green;
+}
+p.scene{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 12mm;
+    color:green;
+}
+p.hover{
+    background-color:green;
+    color:green;
+}
+span.scene{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 12mm;
+    color:green;
+}
+span.hover{
+    background-color:green;
+    color:green;
+}
+p.peter{background-color: red;
+    font-family: Times;
+    font-size: 12mm;
+    color:black;
+}
+p.mich{background-color: red;
+    font-family: Times;
+    font-size: 12mm;
+    color:black;
+}
