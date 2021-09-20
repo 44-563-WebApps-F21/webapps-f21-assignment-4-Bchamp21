@@ -55,10 +55,11 @@ table, td, th {
   table {
     border :5px;
     border-style: solid;
-    border-color: green;              
+    border-color: black;              
     border-collapse:separate ;
     width: 50%;
     margin: 25px 50px 75px 50px;
+    font-size: 5mm;
   }
   
   th, td {
@@ -66,7 +67,13 @@ table, td, th {
     vertical-align: center;
   }
 
+
+
+  tr:nth-child(even) {background-color: #ccdee6;}
   th{
     height: 30px;
+    background-color: #65cbdd;
+  color: white;
+
   }
   
