@@ -35,3 +35,33 @@ span {background-color: white;
     font-size: 4mm;
     color:rgb(202, 10, 90);
 }
+.speech{background-color: white;
+    font-family: Times;
+    font-size: 4mm;
+    color:black;
+}
+
+table, td, th {  
+    border: 1px solid #ddd;
+    text-align: center;
+    
+  }
+  
+  table {
+    border :5px;
+    border-style: solid;
+    border-color: green;              
+    border-collapse:separate ;
+    width: 50%;
+    margin: 25px 50px 75px 50px;
+  }
+  
+  th, td {
+    padding: 20px;
+    vertical-align: center;
+  }
+
+  th{
+    height: 30px;
+  }
+  
